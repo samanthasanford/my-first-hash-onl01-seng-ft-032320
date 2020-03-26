@@ -6,7 +6,7 @@ def my_hash
     "Location" => "Nevada"
   }
 
-  
+end
 end
 
 
