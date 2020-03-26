@@ -19,7 +19,6 @@ def shipping_manifest
     "oil paintings" => 3,
   }
 
-  return the_manifest
 end
 
 def retrieval
